@@ -38,3 +38,8 @@ contoh code nya ada di bawah:
 gambar terssebut adalah hasil dari saya implementasikan code dari flutter yang menampilkan gambar rating deskripsi dan lain nya
 ![container](image-17.png)
 gambar tersebut adalah hasi dari saya menggunakan code dari flutter yang menampilkan gambar dengan menggunakan container yang nanti nya akan di tampilkan di dalam layar menjadi 4
+![penampilan foto](image-18.png)
+gambar diatas adalah hasil dari saya menggunakan code dari flutter yang menampilkan gambar dengan menggunakan GRID yang nanti nya akan di tampilkan di dalam layar menjadi banyak namun 
+saya tidak mengerti kenapa kok tidaktampil gambar nya
+![membuat kontak](image-19.png)
+pada code ini merupakan pembuatan kontak dari sebuah tempat.
